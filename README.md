@@ -2,6 +2,7 @@
 
 ### Day One: Homework
 |Date|Jan 4, Monday|
+| --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/heimavinna)|
 |Difficulty|1.2-1.4|
 |Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/Homework)|
@@ -10,6 +11,7 @@
 
 ### Day Two: Parking 
 |Date|Jan 5, Tuesday|
+| --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/parking2)|
 |Difficulty|1.3|
 |Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/Parking)|
