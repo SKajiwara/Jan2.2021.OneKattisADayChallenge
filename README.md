@@ -29,7 +29,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 |Run Time|0.06|
 
 ### Day Three: Piece of Cake! 
-|Date|Jan 6, Tuesday|
+|Date|Jan 6, Wed|
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/pieceofcake2)|
 |Difficulty|1.3|
@@ -38,10 +38,19 @@ To be honest, I'm not into programming lately, and I have not done much study in
 |Run Time|0.05|
 
 ### Day Four:  
-|Date|Jan 7, Tuesday|
+|Date|Jan 7, Thur|
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/greetings2)|
+|Difficulty|1.3|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/greetings)|
+|Language|Python|
+|Run Time|0.05|
+
+### Day Five:  
+|Date|Jan 8, Fri|
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/)|
 |Difficulty|1.3|
 |Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
 |Language|Python|
-|Run Time|0.06|
+|Run Time|0.05|

@@ -1,6 +1,7 @@
 def main():
     totalVolume = 0
     thickness = 4
+    
 
     # Take Inputs
     cakeWidth, hCut, vCut = [int(x) for x in input().split(' ')]
