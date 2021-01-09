@@ -5,10 +5,13 @@ To be honest, I'm not into programming lately, and I have not done much study in
 
 |My Kattis|[Here](https://open.kattis.com/users/shingi-kagawa)|
 | --- | --- |
-|Current Score|118.4|
-|Current Rank|5342|
+|Current Score|122.1|
+|Current Rank|5175|
 |Heighest Difficulty|4.8 (CD)|
-|2nd Heighest Difficulty| 3.7 [link](https://open.kattis.com/problems/shortestpath1)|
+|2nd Heighest Difficulty| 3.7 ([link](https://open.kattis.com/problems/shortestpath1))|
+|Heighest Streak|5|
+|Day of Kattis|5|
+|Latest Problem|[link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge#day-five)|
 
 ### Day One: Homework
 |Date|Jan 4, Monday|
@@ -42,15 +45,15 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/greetings2)|
 |Difficulty|1.3|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/greetings)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/Greetings)|
 |Language|Python|
 |Run Time|0.05|
 
 ### Day Five:  
 |Date|Jan 8, Fri|
 | --- | --- |
-|Problem|[Link](https://open.kattis.com/problems/)|
+|Problem|[Link](https://open.kattis.com/problems/finalexam2)|
 |Difficulty|1.3|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/FinalExam)|
 |Language|Python|
-|Run Time|0.05|
+|Run Time|0.07|
