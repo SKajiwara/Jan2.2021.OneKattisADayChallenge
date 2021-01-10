@@ -40,7 +40,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 |Language|Python|
 |Run Time|0.05|
 
-### Day Four:  
+### Day Four: Greetings
 |Date|Jan 7, Thur|
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/greetings2)|
@@ -49,7 +49,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 |Language|Python|
 |Run Time|0.05|
 
-### Day Five:  
+### Day Five: Final Exam
 |Date|Jan 8, Fri|
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/finalexam2)|
@@ -57,3 +57,66 @@ To be honest, I'm not into programming lately, and I have not done much study in
 |Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/FinalExam)|
 |Language|Python|
 |Run Time|0.07|
+
+### Day Six: Electrical Outlets
+|Date|Jan 9, Sat|
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/electricaloutlets)|
+|Difficulty|1.3|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/ElectricalOutlets)|
+|Language|C++|
+|Run Time|0.00|
+
+### Day Seven: 
+|Date|Jan 10, Sun|
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/electricaloutlets)|
+|Difficulty|1.3|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/ElectricalOutlets)|
+|Language|C++|
+|Run Time|0.00|
+
+### Day : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+
+### Day : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+
+### Day : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+
+### Day : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+
+### Day : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
