@@ -3,8 +3,7 @@ using namespace std;
 
 int main()
 {
-    int num = 0;
-    int index, days, candles;
+    int num, index, days, candles;
     cin >> num;
 
     for (int i = 1; i <= num; i++)
