@@ -1,12 +1,12 @@
 # One Kattis A Day Challenge 2021
 This is my 2021 new year's resolution to do one kattis problem a day.
 Let's see how many problems I can do it in one year, and see what happens.
-To be honest, I'm not into programming lately, and I have not done much study in a while, but we all need some decipline right?
+To be honest, I'm not into programming lately, and I have not done much study in a while, but we all need some decipline right? I do some questions ahead sometimes. Like on Sunday, I do 3 questions for Mon and Tue ahead. I'm doing questions from the lower level to higher. So as the year goes to the end, it gets harder and harder.
 
 |My Kattis|[Here](https://open.kattis.com/users/shingi-kagawa)|
 | --- | --- |
-|Current Score|123.0|
-|Current Rank|5126|
+|Current Score|125.7|
+|Current Rank|4997|
 |Heighest Difficulty|4.8 (CD)|
 |2nd Heighest Difficulty| 3.7 ([link](https://open.kattis.com/problems/shortestpath1))|
 |Heighest Streak|6|
@@ -76,32 +76,32 @@ To be honest, I'm not into programming lately, and I have not done much study in
 |Language|C++|
 |Run Time|0.04 s|
 
-### Day : 
-|Date|Jan , |
+### Day Eight : Cetvrta
+|Date|Jan 10, Sun|
 | --- | --- |
-|Problem|[Link](https://open.kattis.com/problems/)|
-|Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
-|Language||
-|Run Time||
+|Problem|[Link](https://open.kattis.com/problems/cetvrta)|
+|Difficulty|1.3|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/Cetvrta)|
+|Language|Javascript|
+|Run Time|0.42s|
 
-### Day : 
-|Date|Jan , |
+### Day Nine: Batter Up
+|Date|Jan 11, Mon|
 | --- | --- |
-|Problem|[Link](https://open.kattis.com/problems/)|
-|Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
-|Language||
-|Run Time||
+|Problem|[Link](https://open.kattis.com/problems/BatterUp)|
+|Difficulty|1.3|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/batterup)|
+|Language|python|
+|Run Time|0.05s|
 
-### Day : 
-|Date|Jan , |
+### Day Ten: Reverse
+|Date|Jan 12, Tue|
 | --- | --- |
-|Problem|[Link](https://open.kattis.com/problems/)|
-|Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
-|Language||
-|Run Time||
+|Problem|[Link](https://open.kattis.com/problems/ofugsnuid)|
+|Difficulty|1.2-1.4|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/Reverse)|
+|Language|python|
+|Run Time|0.18|
 
 ### Day : 
 |Date|Jan , |
