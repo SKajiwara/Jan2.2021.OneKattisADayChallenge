@@ -103,14 +103,14 @@ To be honest, I'm not into programming lately, and I have not done much study in
 |Language|python|
 |Run Time|0.18|
 
-### Day : 
-|Date|Jan , |
+### Day Eleven : Transit Woes
+|Date|Jan 13, Wednesday|
 | --- | --- |
-|Problem|[Link](https://open.kattis.com/problems/)|
-|Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
-|Language||
-|Run Time||
+|Problem|[Link](https://open.kattis.com/problems/transitwoes)|
+|Difficulty|1.4|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/TransitWoes)|
+|Language|python|
+|Run Time|0.05s|
 
 ### Day : 
 |Date|Jan , |
