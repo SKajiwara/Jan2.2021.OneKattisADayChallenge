@@ -112,11 +112,11 @@ To be honest, I'm not into programming lately, and I have not done much study in
 |Language|python|
 |Run Time|0.05s|
 
-### Day : 
-|Date|Jan , |
+### Day Twelve : Shattered Cake 
+|Date|Jan 13, Wednesday|
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/)|
-|Difficulty||
+|Difficulty|1.4|
 |Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
-|Language||
-|Run Time||
+|Language|python|
+|Run Time|4.07s|
