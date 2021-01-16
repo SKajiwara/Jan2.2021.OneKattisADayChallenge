@@ -5,8 +5,8 @@ To be honest, I'm not into programming lately, and I have not done much study in
 
 |My Kattis|[Here](https://open.kattis.com/users/shingi-kagawa)|
 | --- | --- |
-|Current Score|125.7|
-|Current Rank|4997|
+|Current Score|132.5|
+|Current Rank|4728|
 |Heighest Difficulty|4.8 (CD)|
 |2nd Heighest Difficulty| 3.7 ([link](https://open.kattis.com/problems/shortestpath1))|
 |Heighest Streak|6|
@@ -115,8 +115,58 @@ To be honest, I'm not into programming lately, and I have not done much study in
 ### Day Twelve : Shattered Cake 
 |Date|Jan 13, Wednesday|
 | --- | --- |
-|Problem|[Link](https://open.kattis.com/problems/)|
+|Problem|[Link](https://open.kattis.com/problems/shatteredcake)|
 |Difficulty|1.4|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/ShatteredCake)|
 |Language|python|
 |Run Time|4.07s|
+
+### Day Thirteen : Number Fun
+|Date|Jan 15, Friday|
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/numberfun)|
+|Difficulty|1.3|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/NumberFun)|
+|Language|C++|
+|Run Time|0.02s|
+
+### Day Fourteen : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+
+### Day Fifteen : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+
+### Day Sixteen : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+
+
+## Tricks
+### Python
+1. Take multiple numbers separated by space in 1 line.
+``` Python
+numbers = [int(x) for x in input().split(' ')]
+```
+### C++
+1. Char to Int 
+``` C++
+char a = '1'
+int b = a - '0' // b is now 1 
+```
