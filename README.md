@@ -12,6 +12,9 @@ To be honest, I'm not into programming lately, and I have not done much study in
 |Heighest Streak|6|
 |Day of Kattis|6|
 |Latest Problem|[link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge#day-six-electrical-outlets)|
+##### Personally found Difficult
+1. Bela (1.3)
+2. Star Arrangement (1.4)
 
 ### Day One: Homework
 |Date|Jan 4, Monday|
@@ -130,14 +133,14 @@ To be honest, I'm not into programming lately, and I have not done much study in
 |Language|C++|
 |Run Time|0.02s|
 
-### Day Fourteen : 
-|Date|Jan , |
+### Day Fourteen : Rail Road
+|Date|Jan 16, Sat|
 | --- | --- |
-|Problem|[Link](https://open.kattis.com/problems/)|
-|Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
-|Language||
-|Run Time||
+|Problem|[Link](https://open.kattis.com/problems/railroad2)|
+|Difficulty|1.4|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/RailRoad)|
+|Language|python3|
+|Run Time|0.06s|
 
 ### Day Fifteen : 
 |Date|Jan , |
