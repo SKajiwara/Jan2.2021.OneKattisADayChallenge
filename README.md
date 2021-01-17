@@ -151,14 +151,14 @@ To be honest, I'm not into programming lately, and I have not done much study in
 |Language|python|
 |Run Time|0.06s|
 
-### Day Sixteen : 
-|Date|Jan , |
+### Day Sixteen : Provinces and Gold
+|Date|Jan 17, Sunday|
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/)|
-|Difficulty||
+|Difficulty|1.4|
 |Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
-|Language||
-|Run Time||
+|Language|JavaScript (node.js)|
+|Run Time|0.42s|
 ### Day Seventeen : 
 |Date|Jan , |
 | --- | --- |
