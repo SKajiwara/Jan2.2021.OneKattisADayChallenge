@@ -142,14 +142,14 @@ To be honest, I'm not into programming lately, and I have not done much study in
 |Language|python3|
 |Run Time|0.06s|
 
-### Day Fifteen : 
-|Date|Jan , |
+### Day Fifteen : Quick Estimate
+|Date|Jan 16, Sat 2nd kattis|
 | --- | --- |
-|Problem|[Link](https://open.kattis.com/problems/)|
-|Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
-|Language||
-|Run Time||
+|Problem|[Link](https://open.kattis.com/problems/quickestimate)|
+|Difficulty|1.4|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/QuickEstimates)|
+|Language|python|
+|Run Time|0.06s|
 
 ### Day Sixteen : 
 |Date|Jan , |
@@ -159,8 +159,94 @@ To be honest, I'm not into programming lately, and I have not done much study in
 |Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
 |Language||
 |Run Time||
-
-
+### Day Seventeen : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+### Day Eighteen : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+### Day Nineteen : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+### Day Twenty : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+### Day Twenty One : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+### Day Twenty Two : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+### Day Twenty Three : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+### Day Twenty Four : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+### Day Twenty Five : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+### Day Twenty Six : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
+### Day  : 
+|Date|Jan , |
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/)|
+|Difficulty||
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Language||
+|Run Time||
 ## Tricks
 ### Python
 1. Take multiple numbers separated by space in 1 line.
