@@ -15,6 +15,9 @@ To be honest, I'm not into programming lately, and I have not done much study in
 ##### Personally found Difficult
 1. Bela (1.3)
 2. Star Arrangement (1.4)
+##### Good Examples
+1. Babel Fish (C++): map, utility, sstream, cstring, time.h
+2. Putovanje: Iterator
 
 ### Day One: Homework
 |Date|Jan 4, Monday|
@@ -159,14 +162,14 @@ To be honest, I'm not into programming lately, and I have not done much study in
 |Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
 |Language|JavaScript (node.js)|
 |Run Time|0.42s|
-### Day Seventeen : 
-|Date|Jan , |
+### Day Seventeen : Poker Hand
+|Date|Jan 20, Wednesday|
 | --- | --- |
-|Problem|[Link](https://open.kattis.com/problems/)|
-|Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
-|Language||
-|Run Time||
+|Problem|[Link](https://open.kattis.com/problems/pokerhand)|
+|Difficulty|1.4|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/PokerHand)|
+|Language|python|
+|Run Time|0.05s|
 ### Day Eighteen : 
 |Date|Jan , |
 | --- | --- |
@@ -258,4 +261,17 @@ numbers = [int(x) for x in input().split(' ')]
 ``` C++
 char a = '1'
 int b = a - '0' // b is now 1 
+```
+2. Run Faster
+``` C++
+#include<utility>
+int main() {
+    ios::sync_with_stdio(false);
+    ...
+}
+```
+3. Find Common Items from 2 Vectors and insert in c
+``` C++
+#include <algorithm>
+set_intersection(a.begin(), a.end(), b.begin(), b.end(), back_inserter(c));
 ```
