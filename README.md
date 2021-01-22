@@ -170,14 +170,14 @@ To be honest, I'm not into programming lately, and I have not done much study in
 |Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/PokerHand)|
 |Language|python|
 |Run Time|0.05s|
-### Day Eighteen : 
+### Day Eighteen : No Duplicates
 |Date|Jan , |
 | --- | --- |
-|Problem|[Link](https://open.kattis.com/problems/)|
-|Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
-|Language||
-|Run Time||
+|Problem|[Link](https://open.kattis.com/problems/nodup)|
+|Difficulty|1.4|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/NoDuplicates)|
+|Language|C++|
+|Run Time|0.00s|
 ### Day Nineteen : 
 |Date|Jan , |
 | --- | --- |
