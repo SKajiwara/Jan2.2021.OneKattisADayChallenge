@@ -24,7 +24,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/heimavinna)|
 |Difficulty|1.2-1.4|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/Homework)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/Homework)|
 |Language|Python|
 |Run Time|0.06|
 
@@ -33,7 +33,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/parking2)|
 |Difficulty|1.3|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/Parking)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/Parking)|
 |Language|Python|
 |Run Time|0.06|
 
@@ -42,7 +42,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/pieceofcake2)|
 |Difficulty|1.3|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/PieceOfCake)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/PieceOfCake)|
 |Language|Python|
 |Run Time|0.05|
 
@@ -51,7 +51,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/greetings2)|
 |Difficulty|1.3|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/Greetings)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/Greetings)|
 |Language|Python|
 |Run Time|0.05|
 
@@ -60,7 +60,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/finalexam2)|
 |Difficulty|1.3|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/FinalExam)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/FinalExam)|
 |Language|Python|
 |Run Time|0.07|
 
@@ -69,7 +69,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/electricaloutlets)|
 |Difficulty|1.3|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/ElectricalOutlets)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/ElectricalOutlets)|
 |Language|C++|
 |Run Time|0.00|
 
@@ -78,7 +78,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/chanukah)|
 |Difficulty|1.3|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/ChanukahChallenge)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/ChanukahChallenge)|
 |Language|C++|
 |Run Time|0.04 s|
 
@@ -87,7 +87,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/cetvrta)|
 |Difficulty|1.3|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/Cetvrta)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/Cetvrta)|
 |Language|Javascript|
 |Run Time|0.42s|
 
@@ -96,7 +96,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/BatterUp)|
 |Difficulty|1.3|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/batterup)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/batterup)|
 |Language|python|
 |Run Time|0.05s|
 
@@ -105,7 +105,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/ofugsnuid)|
 |Difficulty|1.2-1.4|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/Reverse)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/Reverse)|
 |Language|python|
 |Run Time|0.18|
 
@@ -114,7 +114,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/transitwoes)|
 |Difficulty|1.4|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/TransitWoes)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/TransitWoes)|
 |Language|python|
 |Run Time|0.05s|
 
@@ -123,7 +123,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/shatteredcake)|
 |Difficulty|1.4|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/ShatteredCake)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/ShatteredCake)|
 |Language|python|
 |Run Time|4.07s|
 
@@ -132,7 +132,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/numberfun)|
 |Difficulty|1.3|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/NumberFun)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/NumberFun)|
 |Language|C++|
 |Run Time|0.02s|
 
@@ -141,7 +141,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/railroad2)|
 |Difficulty|1.4|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/RailRoad)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/RailRoad)|
 |Language|python3|
 |Run Time|0.06s|
 
@@ -150,7 +150,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/quickestimate)|
 |Difficulty|1.4|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/QuickEstimates)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/QuickEstimates)|
 |Language|python|
 |Run Time|0.06s|
 
@@ -159,7 +159,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/)|
 |Difficulty|1.4|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/ProvincesAndGold)|
 |Language|JavaScript (node.js)|
 |Run Time|0.42s|
 ### Day Seventeen : Poker Hand
@@ -167,31 +167,31 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/pokerhand)|
 |Difficulty|1.4|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/PokerHand)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/PokerHand)|
 |Language|python|
 |Run Time|0.05s|
 ### Day Eighteen : No Duplicates
-|Date|Jan , |
+|Date|Jan 21, Thursday|
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/nodup)|
 |Difficulty|1.4|
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/NoDuplicates)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/NoDuplicates)|
 |Language|C++|
 |Run Time|0.00s|
-### Day Nineteen : 
-|Date|Jan , |
+### Day Nineteen : Modulo
+|Date|Jan 23, Saturday|
 | --- | --- |
-|Problem|[Link](https://open.kattis.com/problems/)|
-|Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
-|Language||
-|Run Time||
+|Problem|[Link](https://open.kattis.com/problems/modulo)|
+|Difficulty|1.4|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/Modulo)|
+|Language|JavaScript(node)|
+|Run Time|0.42|
 ### Day Twenty : 
 |Date|Jan , |
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/)|
 |Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/)|
 |Language||
 |Run Time||
 ### Day Twenty One : 
@@ -199,7 +199,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/)|
 |Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/)|
 |Language||
 |Run Time||
 ### Day Twenty Two : 
@@ -207,7 +207,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/)|
 |Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/)|
 |Language||
 |Run Time||
 ### Day Twenty Three : 
@@ -215,7 +215,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/)|
 |Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/)|
 |Language||
 |Run Time||
 ### Day Twenty Four : 
@@ -223,7 +223,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/)|
 |Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/)|
 |Language||
 |Run Time||
 ### Day Twenty Five : 
@@ -231,7 +231,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/)|
 |Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/)|
 |Language||
 |Run Time||
 ### Day Twenty Six : 
@@ -239,7 +239,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/)|
 |Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/)|
 |Language||
 |Run Time||
 ### Day  : 
@@ -247,7 +247,7 @@ To be honest, I'm not into programming lately, and I have not done much study in
 | --- | --- |
 |Problem|[Link](https://open.kattis.com/problems/)|
 |Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/)|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/)|
 |Language||
 |Run Time||
 ## Tricks
