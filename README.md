@@ -186,22 +186,22 @@ To be honest, I'm not into programming lately, and I have not done much study in
 |Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/Modulo)|
 |Language|JavaScript(node)|
 |Run Time|0.42|
-### Day Twenty : 
+### Day Twenty : License to Launch
+|Date|Jan 24, Sun|
+| --- | --- |
+|Problem|[Link](https://open.kattis.com/problems/licensetolaunch)|
+|Difficulty|1.4|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/LicenseToLaunch)|
+|Language|python3|
+|Run Time|0.07s|
+### Day Twenty One : Judging Moose
 |Date|Jan , |
 | --- | --- |
-|Problem|[Link](https://open.kattis.com/problems/)|
-|Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/)|
-|Language||
-|Run Time||
-### Day Twenty One : 
-|Date|Jan , |
-| --- | --- |
-|Problem|[Link](https://open.kattis.com/problems/)|
-|Difficulty||
-|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/)|
-|Language||
-|Run Time||
+|Problem|[Link](https://open.kattis.com/problems/judginmoose)|
+|Difficulty|1.4|
+|Code|[Link](https://github.com/SKajiwara/Jan2.2021.OneKattisADayChallenge/tree/main/JudgingMoose)|
+|Language|C++|
+|Run Time|0.00s|
 ### Day Twenty Two : 
 |Date|Jan , |
 | --- | --- |
